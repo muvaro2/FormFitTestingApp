@@ -1,6 +1,5 @@
-# flut_tests
+# FormFit Tests
 
-messing around
 
 ## Getting Started
 
